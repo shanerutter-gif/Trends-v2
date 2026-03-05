@@ -1,0 +1,9 @@
+{
+  "name": "command-x",
+  "version": "1.0.0",
+  "description": "X content OS — trends, headlines, AI drafts",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
